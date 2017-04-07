@@ -87,6 +87,7 @@
 #include <QQmlFileSelector>
 #include <QQmlDebuggingEnabler>
 #include <QQmlContext>
+#include <QtQml>
 
 int __attribute__((visibility("default"))) main(int argc, char *argv[])
 {
